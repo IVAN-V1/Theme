@@ -1,5 +1,5 @@
 # Configuracion de tema claro y oscuro
-Configura el tema de tu aplicacion con tema claro y oscuro y guarda el el estado del tema con SharedPreferences 
+Configura el tema de tu aplicacion con tema claro y oscuro y guarda el estado del tema con SharedPreferences 
 
 | Imagen 1 | Imagen 2 | Imagen 3 | Imagen 4 |
 | -------- | -------- | -------- | -------- |
@@ -10,7 +10,7 @@ Configura el tema de tu aplicacion con tema claro y oscuro y guarda el el estado
   <img src="./capturas/gif_1.gif" alt="Vista previa del video" />
 </p>
 
-# Estilo oscuro
+# Estilo oscuro    /res/themes/themes.xml (night)
 
 ```html
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -35,7 +35,7 @@ Configura el tema de tu aplicacion con tema claro y oscuro y guarda el el estado
 ```
 
 
-# Estilo Claro
+# Estilo Claro    /res/themes/themes.xml
 
 ```html
 
